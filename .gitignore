@@ -1,0 +1,6 @@
+# The paid product must never be committed to this public repo
+*.zip
+plainpage/
+
+.DS_Store
+Thumbs.db
